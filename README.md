@@ -4,7 +4,7 @@
 
 This project was created as the final project from [Jonas Schmedtmann's](https://twitter.com/jonasschmedtman) JavaScript course.
 
-### 👨🏽‍💻 In this course I learnt JavaScript from zero to advanced theorical knowledge, such as:
+### 👨🏽‍💻 In this course I learn JavaScript theorical knowledge, such as:
 
 - JavaScript, HTML5 and CSS3 fundamentals
 - Numbers, Strings, Arrays, Objects, Sets
