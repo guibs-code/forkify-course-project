@@ -16,3 +16,5 @@ This project was created as the final project from [Jonas Schmedtmann's](https:/
 - NPM fundamentals
 - OOP (Object-Oriented Programming)
 - Setting up Git and Deployment into GitHub repositories
+
+You can find out a live-demo to the project [clicking here](https://forkify-guisilva.netlify.app/)
