@@ -3,7 +3,7 @@
 ## 🍕 Recipe application with custom recipe uploads
 
 This project was created as the final project from [Jonas Schmedtmann's](https://twitter.com/jonasschmedtman) JavaScript course.</br>
-Live URL: [Click here](https://forkify-guiemot.netlify.app/#62e8b90d3c85910016dcde6f)
+You can find out a live-demo to the project [clicking here](https://forkify-guiemot.netlify.app/)
 
 ### 👨🏽‍💻 In this course I learn JavaScript theorical knowledge, such as:
 
@@ -17,5 +17,3 @@ Live URL: [Click here](https://forkify-guiemot.netlify.app/#62e8b90d3c85910016dc
 - NPM fundamentals
 - OOP (Object-Oriented Programming)
 - Setting up Git and Deployment into GitHub repositories
-
-You can find out a live-demo to the project [clicking here](https://forkify-guiemot.netlify.app/)
